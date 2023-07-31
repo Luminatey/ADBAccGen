@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"@devicefarmer/adbkit": "^3.2.5",
+		"mineflayer": "^4.10.1"
+	}
+}
